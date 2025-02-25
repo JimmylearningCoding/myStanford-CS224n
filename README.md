@@ -1,2 +1,2 @@
 # myStanford-CS224n
-Stanford CS224n for NLP
+My Stanford CS224n for NLP assignments. 
